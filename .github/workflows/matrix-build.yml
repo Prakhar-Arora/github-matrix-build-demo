@@ -1,4 +1,4 @@
-name: Multi-Platform Matrix Build with Artifacts
+name: matrix-12d52be
 
 on:
   push:
